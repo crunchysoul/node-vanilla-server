@@ -1,0 +1,9 @@
+{
+  "name": "20171122-node-vanilla",
+  "version": "1.0.0",
+  "description": "Vanilla web server in Node.js",
+  "main": "server.js",
+  "repository": "git@github.com:crunchysoul/node-vanilla-server.git",
+  "author": "Crunchy Chen Zhao",
+  "license": "MIT"
+}
