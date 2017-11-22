@@ -5,5 +5,11 @@
   "main": "server.js",
   "repository": "git@github.com:crunchysoul/node-vanilla-server.git",
   "author": "Crunchy Chen Zhao",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
 }
